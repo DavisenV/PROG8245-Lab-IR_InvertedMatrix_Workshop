@@ -1,0 +1,11 @@
+[project]
+name = "prog8245-lab-ir-invertedmatrix-workshop"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "feedparser>=6.0.14",
+    "ipykernel>=7.4.0",
+    "nltk>=3.10.4",
+    "pandas>=3.1.1",
+    "requests>=2.34.2",
+]
