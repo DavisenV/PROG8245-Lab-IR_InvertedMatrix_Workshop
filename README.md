@@ -6,7 +6,7 @@ PROG8245 – Active Learning Workshop: building an Inverted Index and a Position
 - **Team #:** ____
 - Name 1
 - Name 2
-- Name 3
+- Carlos Gutierrez - 9118309
 
 ## Dataset
 - **Source:** Python Software Foundation (PSF) blog, from its public RSS feed:
